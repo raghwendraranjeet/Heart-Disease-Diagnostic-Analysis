@@ -1,4 +1,4 @@
-# Heart-Disease-Diagnostic-AnalysisHeart Disease Diagnostic Analysis
+Heart Disease Diagnostic Analysis
 Heart diseses diagnostic pic
 
 Overview 👀
